@@ -1,5 +1,5 @@
 # The Long Con
-An open source #TTRPG about grifters and con artists. 
+An open source TTRPG about grifters and con artists. 
 
 ### [Get Started](https://github.com/jazzsequence/TheLongCon/blob/master/src/00-toc.md)
 
