@@ -1,0 +1,2 @@
+# Gaining Experience
+Earned experience is tabulated in XP.  At the end of a scenario (i.e. one game session), a player can spend XP to buy points in any of the above skills (rate to-be-determined).  Players can also gain points in skills that they rely on frequently from use (rate to-be-determined).  The more successes a player gets in any one skill (or, in the case of Rep the more successful – or botched – cons), the higher their score will be in that skill.
