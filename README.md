@@ -42,6 +42,8 @@ To submit a change request, go to the file you want to change and click the edit
 * Refine Basic Mechanics
 * Expand the concept of "GM-less" games/campaigns (mentioned but never wrote rules for this) or else remove entirely
 * Use GitHub pages to build an actual site for this to live
+* Resources & money
+* Items and equipment
 * ???
 
 ## Changelog
